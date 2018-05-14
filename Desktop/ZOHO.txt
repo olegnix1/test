@@ -1,0 +1,5 @@
+1. When create a new client existing name poped up if its in database.  Already there
+2. Deal sepparate One time service, ongoing service, software (fuclrum hub). Drop down menu. Important.
+3. Pipeline reports (different kind of dials) timelines month, quater of year, this year, next year. Important.
+4. Lock accouts to do not change deal owner, account owner. Probably create a sales role in accounts type.
+5. Quoting addons for zoho.
